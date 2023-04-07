@@ -1,2 +1,2 @@
 CodeWars Soluitions
-8-kyu 6-kyu
+8-kyu and 6-kyu
