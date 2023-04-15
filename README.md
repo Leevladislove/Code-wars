@@ -1,3 +1,3 @@
-CodeWars Soluitions
+# CodeWars Soluitions
 
-8-kyu and 6-kyu
+7-kyu, 6-kyu and 5-kyu
